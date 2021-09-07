@@ -1,6 +1,6 @@
 print ("Hello World");
 
-f= open("Dont touch.txt","w+")
+f= open("Donttouch.txt","w+")
 
 
 for i in range(10):
